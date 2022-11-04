@@ -26,6 +26,6 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossam-nasr&show_icons=true&locale=en&layout=compact&theme=nord" alt="hossam-nasr top languages" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hossam-nasr&show_icons=true&locale=en&theme=nord" alt="hossam-nasr stats" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hossam-nasr&theme=nord" alt="hossam-nasr streaks" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hossam-nasr&show_icons=true&locale=en&theme=nord" alt="hossam-nasr stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossam-nasr&theme=nord" alt="hossam-nasr streaks" /></p>
 </div>
