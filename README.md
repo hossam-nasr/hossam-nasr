@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossam-nasr&label=Profile%20views&color=0e75b6&style=flat" alt="hossam-nasr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossam-nasr" alt="hossam-nasr" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossam-nasr&theme=nord&margin-w=15&margin-h=10&no-frame=true&row=1" alt="hossam-nasr" /></a> </p>
 
 - 🔭 I’m currently working on **Microsoft Azure Functions**
 
